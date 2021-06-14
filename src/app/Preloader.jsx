@@ -5,7 +5,7 @@ export default class Preloader extends React.Component {
     return (
       <div id="preloader">
         <img
-          src="https://resources.construx.com/wp-content/uploads/2016/08/gif-placeholder.gif"
+          src="https://tenor.com/view/loading-forever-12years-later-gif-10516198"
           alt=""
         />
       </div>
